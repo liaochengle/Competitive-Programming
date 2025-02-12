@@ -1,8 +1,6 @@
-#include <iostream>
-#include <stdio.h>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
+
 
 int corns(vector<int>& cows, int n)
 {
