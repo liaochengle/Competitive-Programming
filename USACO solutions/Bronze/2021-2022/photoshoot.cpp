@@ -27,3 +27,5 @@ int photoshoot()
 			times += 1;
 	}
 	cout << times << endl;
+	return 0;
+}
