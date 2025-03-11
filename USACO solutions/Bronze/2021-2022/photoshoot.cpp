@@ -4,8 +4,7 @@
 #include<algorithm>
 using namespace std;
 
-int photoshoot()
-{
+int photoshoot(){
 	int n;
 	cin >> n;
 	vector<char> cows(n + 1);
