@@ -2,7 +2,6 @@
 #include <algorithm>
 #include <iostream>
 using namespace std;
-//test case 4Ò»Ö±¹ý²»ÁË¡£¡£
 
 struct board
 {
