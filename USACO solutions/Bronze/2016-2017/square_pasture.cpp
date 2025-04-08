@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <algorithm>
-#include <stdio
+#include <stdio.h>
 using namespace std;
 
 struct point
