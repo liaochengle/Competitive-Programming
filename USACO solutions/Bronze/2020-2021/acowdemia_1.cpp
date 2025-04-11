@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <vector>
 #include <algorithm>
-#include <bitsstdc++
+#include <bits/stdc++
 using namespace std;
 
 bool cmp(int a, int b)
