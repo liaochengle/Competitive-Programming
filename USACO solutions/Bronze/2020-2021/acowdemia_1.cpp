@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <vector>
 #include <algorithm>
-#in
+#include <std
 using namespace std;
 
 bool cmp(int a, int b)
