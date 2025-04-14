@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <vector>
-#inc
+#incl
 using namespace std;
 //yay
 
