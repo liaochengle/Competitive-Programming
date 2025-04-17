@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#includ
+#include
 using namespace std;
 
 struct mile
