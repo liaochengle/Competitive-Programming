@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <algorithm>
-#incl
+#inclu
 using namespace std;
 int fence_painting()
 {
