@@ -4,6 +4,7 @@
 #include <string>
 #include <algorithm>
 #include <math.h>
+#
 using namespace std;
 
 bool is_valid(vector<string>& cows, vector<string>& cows1, vector<string>& cows2, int n)
