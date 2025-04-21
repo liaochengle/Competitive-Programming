@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <stdio.h>
-#i
+#in
 using namespace std;
 
 struct point
