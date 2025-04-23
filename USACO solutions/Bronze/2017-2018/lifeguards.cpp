@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <vector>
-#in
+#inc
 using namespace std;
 
 int lifeguards()
