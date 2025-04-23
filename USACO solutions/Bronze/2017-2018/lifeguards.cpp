@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <vector>
-#include <bi
+#include <bit
 using namespace std;
 
 int lifeguards()
