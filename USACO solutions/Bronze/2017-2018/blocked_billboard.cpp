@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <iostream>
-#include <bits
+#include <bits/
 using namespace std;
 
 struct board
