@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <math.h>
-# 
+#i
 using namespace std;
 
 int circular_barn()
