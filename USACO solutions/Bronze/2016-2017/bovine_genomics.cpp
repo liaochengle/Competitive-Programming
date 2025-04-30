@@ -3,7 +3,7 @@
 #include <set>
 #include <algorithm>
 #include <string>
-#include <bits/st
+#include <bits/std
 using namespace std;
 //YAY!!!!!
 
