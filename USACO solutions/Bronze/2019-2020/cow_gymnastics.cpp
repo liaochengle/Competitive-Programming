@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#inclu
+#includ
 using namespace std;
 
 bool is_consistent(int a, int b, vector<vector<int>>& stat, int k, int n)
