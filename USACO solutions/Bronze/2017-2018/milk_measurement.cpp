@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#inc
+#incl
 using namespace std;
 
 struct cow
