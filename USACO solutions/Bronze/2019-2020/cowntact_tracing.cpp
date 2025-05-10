@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#inclu
+#includ
 using namespace std;
 
 struct Shake {
