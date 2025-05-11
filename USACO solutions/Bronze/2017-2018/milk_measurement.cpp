@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <bi
+#include <bits
 using namespace std;
 
 struct cow
