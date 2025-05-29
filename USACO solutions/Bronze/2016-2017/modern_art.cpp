@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-#include <bits/
+#include <bits/stdc++
 using namespace std;
 
 bool in_grid(int num, vector<vector<int>>& grid, int n)
